@@ -8,7 +8,7 @@
 <body>
     <div>
         <p>Mi primer repositorio con git</p>
-        <p>Mi primer repositorio con git</p>
+        <p>Pagina inicial de mi sitio web</p>
     </div>
 </body>
 </html>
